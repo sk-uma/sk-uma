@@ -10,7 +10,7 @@
 ## BrainHack [link](https://github.com/sk-uma/BrainHack_WebGL)
 難読プログラミング言語 BrainF\*\*kを基としたパズルゲーム
 
-## Info
+# Info
 
 <!--
 **sk-uma/sk-uma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
