@@ -1,14 +1,15 @@
 # Works
 
 ## webserv [link](https://github.com/sk-uma/webserv)
-イベント駆動のサーバー  
+C++によって実装されたイベント駆動のサーバー  
 静的なサイトだけではなく, CGIも実行可能
 
 ## RayCasting System [link](https://github.com/sk-uma/ray-casting)
-2Dのマップから3D空間を描画することのできるライブラリ
+C言語によって実装された2Dのマップから3D空間を描画することのできるライブラリ
 
 ## BrainHack [link](https://github.com/sk-uma/BrainHack_WebGL)
-難読プログラミング言語 BrainF\*\*kを基としたパズルゲーム
+難読プログラミング言語 BrainF\*\*kを基としたパズルゲーム  
+Unityで制作
 
 # Info
 
