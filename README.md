@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 <a href="https://github.com/sk-uma">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-uma&layout=compact&theme=dracula" />
-</a>
+</a> -->
