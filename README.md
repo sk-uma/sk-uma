@@ -11,6 +11,10 @@ C言語によって実装された2Dのマップから3D空間を描画するこ
 難読プログラミング言語 BrainF\*\*kを基としたパズルゲーム  
 Unityで制作
 
+## AI Book Illustration [link](https://sk-uma.github.io/AI-BookIllustration/)  
+code: (https://github.com/sk-uma/AI-BookIllustration)  
+StableDiffusionによって生成された挿絵を好きな位置にいられことのできるサイト  
+
 # Info
 
 <!--
@@ -29,5 +33,5 @@ Here are some ideas to get you started:
 -->
 <!-- 
 <a href="https://github.com/sk-uma">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-uma&layout=compact&theme=dracula" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-uma&layout=compact" />
 </a> -->
